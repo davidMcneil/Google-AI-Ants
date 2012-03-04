@@ -1,0 +1,5 @@
+\~$
+\.hgignore$
+\.pyc$
+tools/*
+game_logs/*

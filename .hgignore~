@@ -1,0 +1,10 @@
+\~$
+\.hgignore$
+\.pyc$
+\.map$
+\.js$
+\.png$
+\.php$
+\.java$
+tools/*
+game_logs/*
