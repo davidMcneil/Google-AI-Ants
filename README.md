@@ -17,7 +17,7 @@
   3. Attacking enemy hills 
   4. Exploring unseen regions
   5. Charging enemy ants *(only with advantage in numbers)*
-  6. Randomly patrole region of the board *(overlay grid of ants on map)*
+  6. Randomly patrol region of the board *(overlay grid of ants on map)*
 
 
 ![Alt text](Google-AI-Ants/raw/master/screenshot2.jpg)
