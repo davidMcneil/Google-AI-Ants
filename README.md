@@ -13,11 +13,11 @@
   - Returns list of ants ranked from closest to farthest
 - Prioritized destinations
   1. Gathering food
-  2. Defending hills
-  3. Attacking enemy hills
+  2. Defending hills *(set up diamond configuration)*
+  3. Attacking enemy hills 
   4. Exploring unseen regions
-  5. Charging enemy ants
-  6. Randomly patroling region of the board
+  5. Charging enemy ants* (only with advantage in number)*
+  6. Randomly patrole region of the board *(set up grid)*
 
 
 ![Alt text](Google-AI-Ants/raw/master/screenshot2.jpg)
