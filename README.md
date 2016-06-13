@@ -1,4 +1,4 @@
-![Alt text](Google-AI-Ants/raw/master/screenshot.jpg)
+![Alt text](screenshot.jpg)
 
 
 
@@ -20,4 +20,4 @@
   6. Randomly patrol region of the board *(overlay grid of ants on map)*
 
 
-![Alt text](Google-AI-Ants/raw/master/screenshot2.jpg)
+![Alt text](screenshot2.jpg)
